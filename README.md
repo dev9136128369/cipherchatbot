@@ -1,7 +1,6 @@
 # 🔐 CipherChatBot - Secure Encryption Chatbot  
 *A chatbot that encrypts/decrypts messages using multiple cipher algorithms.*  
-
-![Demo](https://via.placeholder.com/600x400?text=Demo+GIF+Here) *(Replace with actual demo GIF/video link)*  
+  
 
 ## 🚀 Features  
 - **5+ Cipher Algorithms**: Caesar, Vigenère, Fernet (AES), Morse Code, and more.  
